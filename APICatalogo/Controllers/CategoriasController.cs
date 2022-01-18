@@ -1,5 +1,6 @@
 ﻿using APICatalogo.Context;
 using APICatalogo.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
@@ -7,6 +8,7 @@ using System.Linq;
 
 namespace APICatalogo.Controllers
 {
+    [Authorize(AuthenticationSchemes = "Bearer")]
     [Route("api/[Controller]")]
     [ApiController]
     public class CategoriasController : ControllerBase
@@ -21,7 +23,7 @@ namespace APICatalogo.Controllers
         [HttpGet("produtos")]
         public ActionResult<IEnumerable<Categoria>> GetCategoriasProdutos()
         {
-            return _context.Categorias.Include(x=> x.Produtos).ToList();
+            return _context.Categorias.Include(x => x.Produtos).ToList();
         }
 
         [HttpGet]
