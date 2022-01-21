@@ -6982,11 +6982,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dev\\source\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+      "projectUniqueName": "C:\\Users\\Alec\\Programas\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
       "projectName": "APICatalogo",
-      "projectPath": "C:\\Users\\Dev\\source\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+      "projectPath": "C:\\Users\\Alec\\Programas\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
       "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dev\\source\\APICatalogo\\APICatalogo\\obj\\",
+      "outputPath": "C:\\Users\\Alec\\Programas\\APICatalogo\\APICatalogo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

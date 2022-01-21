@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hLb0RiUSkngKmICyeMWBVo2FeFs/qxuqnZxPwt8a2teO1oLzf5Ro7H3/NR0zZHB6TC5wEfgm2AsL06buozcg2A==",
+  "dgSpecHash": "UiDcCucqjLDT9lUlWpmd3cqgU2+he5gv/sYnb9wemEoSdbiUz518SEmr9LRUBHijhNVTQ2zbfCH7FLGp/jxULw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dev\\source\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+  "projectFilePath": "C:\\Users\\Alec\\Programas\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dev\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dev\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
